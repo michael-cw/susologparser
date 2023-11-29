@@ -21,9 +21,11 @@ support, review them in a table, and finally download relevant events to
 be forwarded to the support team when requested or used internally for
 further processing.
 
-<center>
+<div align="center">
+
 <img src="./man/figures/screenshot.png" width="80%" />
-</center>
+
+</div>
 
 ## Installation
 

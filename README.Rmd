@@ -26,9 +26,9 @@ knitr::opts_chunk$set(
 This application is part of the large set of tools, to facilitate survey implementation with
 [Survey Solutions](https://docs.mysurvey.solutions/). It allows to parse system log files, as requested for debugging cases by the Survey Solutions support, review them in a table, and finally download relevant events to be forwarded to the support team when requested or used internally for further processing.
 
-<center>
+<div align="center">
  <img src="./man/figures/screenshot.png" width="80%" />
-</center>
+</div>
 
 
 ## Installation
